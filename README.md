@@ -1,15 +1,4 @@
 
-<style>
-@keyframes colorShift {
-  0% { color: #FF4500; }     /* Laranja do por do sol */
-  25% { color: #FFD700; }    /* Amarelo */
-  50% { color: #00CED1; }    /* Azul claro */
-  75% { color: #1E90FF; }    /* Azul escuro */
-  100% { color: #4B0082; }   /* Roxo noite */
-}
-</style>
-
----
 
 <p align="center">
 I am a Systems Information student at IFSP, focused on full-stack development and artificial intelligence applications.<br>
