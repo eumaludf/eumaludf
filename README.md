@@ -1,21 +1,3 @@
-<!-- TOPO COM GIF E TEXTO ANIMADO -->
-<div align="center" style="position: relative; display: inline-block; width: 100%; max-width: 1200px; height: 400px; overflow: hidden; border-radius: 10px;">
-  <img src="./assets/sunset-pixel.gif" style="width: 100%; height: 100%; object-fit: cover; display: block;"/>
-  <div style="
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      font-family: 'Press Start 2P', monospace;
-      font-size: 2em;
-      color: #ffcc00;
-      text-shadow: 2px 2px 0 #000, -2px -2px 0 #000;
-      animation: colorShift 6s infinite alternate;
-      white-space: nowrap;
-  ">
-    Hello, Im Maria Luiza
-  </div>
-</div>
 
 <style>
 @keyframes colorShift {
