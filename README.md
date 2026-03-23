@@ -1,66 +1,46 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=28&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Maria+Luiza;Full-Stack+Developer;AI+%2B+Web+Enthusiast" />
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=200&section=header&text=Maria%20Luiza&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-</div>
+<!-- TOPO COM GIF (PRINCIPAL) -->
+<p align="center">
+  <img src="./assets/sunset-pixel.gif" width="100%" />
+</p>
 
 ---
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=eumaludf&label=Profile%20views&color=ff69b4&style=flat" />
-
-<img src="https://img.shields.io/github/followers/eumaludf?label=Followers&style=social" />
-
-</div>
+<p align="center">
+I am a Systems Information student at IFSP, focused on full-stack development and artificial intelligence applications.
+I build practical systems and continuously improve my skills in software development.
+</p>
 
 ---
 
-## 🧑‍💻 About Me
+<p align="center">
 
-<div align="center">
+<img src="https://img.shields.io/badge/C++-1a1a1a?style=flat&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-1a1a1a?style=flat&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-1a1a1a?style=flat&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-1a1a1a?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-1a1a1a?style=flat&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1a1a1a?style=flat&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-1a1a1a?style=flat&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/XAMPP-1a1a1a?style=flat&logo=xampp&logoColor=white"/>
+<img src="https://img.shields.io/badge/VSCode-1a1a1a?style=flat&logo=visualstudiocode&logoColor=white"/>
 
-🎓 Sistemas de Informação (IFSP)  
-💻 Full-Stack Developer  
-🤖 Projetos com Inteligência Artificial  
-🎯 Foco em UI moderna e experiência do usuário  
-
-</div>
-
----
-
-## ⚡ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,java,postgres,mysql,git,github" />
-
-</div>
+</p>
 
 ---
 
-## 📊 Stats
+<p align="center">
 
-<div align="center">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=eumaludf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=eumaludf&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eumaludf&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eumaludf&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+</p>
 
 ---
 
-## 🔥 Streak
+<p align="center">
 
-<div align="center">
+<img src="https://streak-stats.demolab.com?user=eumaludf&theme=tokyonight&hide_border=true&background=00000000"/>
 
-<img src="https://streak-stats.demolab.com?user=eumaludf&theme=tokyonight&hide_border=true"/>
-
-</div>
+</p>
